@@ -1,6 +1,6 @@
 # Random Password Discovery Game 2.0
 
-<img src="#" height="50">
+<img src="https://github.com/JonasRodriguesB/Random-Password-Discovery-Game-2.0/blob/main/lock2-logo.png?raw=true" height="50">
 
 ## Descrição
 
@@ -10,4 +10,4 @@ O jogo se aproxima um pouco também da ideia central de um 'jogo da forca', onde
 
 Abaixo você confere todo o fluxograma do projeto :point_down::point_down:
 
-<img src="#" height="400">
+<img src="https://github.com/JonasRodriguesB/Random-Password-Discovery-Game-2.0/blob/main/fluxograma.png?raw=true" height="400">
